@@ -7,7 +7,7 @@ language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
 twitter_username: n/a
-github_username:  james-firth
+github_username:  James-Firth
 
 # Build settings
 markdown: kramdown
