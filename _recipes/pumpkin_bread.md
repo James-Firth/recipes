@@ -20,7 +20,7 @@ ingredients:
 - 1/3 cup chopped walnuts
 
 directions:
-- Preheat oven to 350 F.
+- Preheat oven to 350°F.
 - Mix flour, dry pudding mix, baking powder, spice and baking soda, set aside.
 - Whisk butter, sugar and pumpkin in large bowl. Blend in eggs. Add flour mixture; stir until just moist (keep lumpy).
 - Pour into 8.4-inch loaf pan sprayed with cooking spray. Top with chopped walnuts.
