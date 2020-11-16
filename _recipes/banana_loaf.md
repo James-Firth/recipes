@@ -5,7 +5,7 @@ title:  "Banana Loaf"
 image: placeholder.png
 imagecredit: https://toppng.com/clipart-free-seaweed-clipart-draw-food-placeholder-PNG-free-PNG-Images_183132
 tags: dessert, baking
-cookTime: T1H
+cookTime: T1H10M
 
 ingredients:
 - 1 3/4 cups flour
